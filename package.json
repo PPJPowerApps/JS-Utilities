@@ -1,0 +1,15 @@
+{
+  "name": "utilitiesjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "RUTValidator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Gohreth",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
