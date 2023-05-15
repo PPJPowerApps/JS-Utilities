@@ -46,9 +46,6 @@ function RUTValidator(executionContext) {
   });
 }
 
-//Jest set NODE_ENV to 'test' if it's not already set to something else. https://jestjs.io/docs/environment-variables
-if (process.env.NODE_ENV !== "test") RUTValidator();
-
 module.exports = {
   checkFormat,
   split,
